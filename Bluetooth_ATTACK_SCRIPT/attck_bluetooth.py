@@ -40,7 +40,7 @@ def main():
         print('')
         os.system('clear')
 
-        print("\x1b[31m[*] Jamming target device BT signal in 3 seconds...")
+        print("\x1b[31m[*]  target device BT signal in 3 seconds...")
 
         for i in range(0, 3):
             print('[*] ' + str(3 - i))
