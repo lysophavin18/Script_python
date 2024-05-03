@@ -1,4 +1,4 @@
-import pyperclip
+import pyperclip # type: ignore
 import time 
 
 list = []  
